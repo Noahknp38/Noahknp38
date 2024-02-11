@@ -6,7 +6,7 @@
 - 📫 How to reach me: <b>noahknp.contact@gmail.com</b>
 - ⚡ Fun fact: The fear of long words is called Hippopotomonstrosesquippedaliophobia
 
-<h2>My Skills</h2>
+<h1>My Skills</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
