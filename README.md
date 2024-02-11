@@ -6,6 +6,10 @@
 - 📫 How to reach me: <b>noahknp.contact@gmail.com</b>
 - ⚡ Fun fact: The fear of long words is called Hippopotomonstrosesquippedaliophobia
 
+<h2>My Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
 <!---
 Noahknp38/Noahknp38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
